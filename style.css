@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+  header {
+    text-align: center;
+    color: rgb(167, 167, 167);
+    padding: 20px;
+    background-color: rgb(26, 61, 138);
+  }
+  
+  #city-info {
+    margin: 10px;
+    background-color: lightgray;
+
+  }
+  
+  .sidebar {
+    background-color: rgb(26, 61, 138);
+    padding: 10px;
+    color: rgb(167, 167, 167);
+  }
